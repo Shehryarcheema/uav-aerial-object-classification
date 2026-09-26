@@ -1,0 +1,11 @@
+class_name,n_crops
+pedestrian,3177
+people,333
+bicycle,104
+car,4329
+van,254
+truck,0
+tricycle,0
+awning-tricycle,0
+bus,298
+motor,347
